@@ -3,7 +3,7 @@ Hello world this my repository
 <h1 align="center">Hi 👋, I'm Pradeep Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://localhost:44368/)
+- 🔭 I’m currently working on [E-Commerce Website](https://localhost:44368)
 
 - 🌱 I’m currently learning **.Net framework**
 
